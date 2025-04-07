@@ -1,0 +1,8 @@
+﻿  task1.cpp
+D:\OOP\Lab4\task1\task1\task1.cpp(85,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OOP\Lab4\task1\task1\task1.cpp(86,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OOP\Lab4\task1\task1\task1.cpp(87,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OOP\Lab4\task1\task1\task1.cpp(101,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP\Lab4\task1\task1\task1.cpp(101,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\OOP\Lab4\task1\task1\task1.cpp(101,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  task1.vcxproj -> D:\OOP\Lab4\task1\x64\Debug\task1.exe
